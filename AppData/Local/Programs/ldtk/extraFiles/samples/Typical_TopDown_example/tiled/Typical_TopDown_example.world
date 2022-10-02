@@ -1,9 +1,0 @@
-{
-	"maps": [
-		{ "fileName": "0001_Entrance.tmx", "x": 64, "y": 16 },
-		{ "fileName": "0002_I_see_dead_people.tmx", "x": 640, "y": 112 },
-		{ "fileName": "0003_Elevator.tmx", "x": 368, "y": 368 },
-		{ "fileName": "0004_Basement.tmx", "x": 288, "y": 464 }
-	],
-	"type": "world"
-}
